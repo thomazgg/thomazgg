@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <a href="https://github.com/uthomaz1">
+  <a href="https://github.com/thomazgg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uthomaz1&show_iconstrue&theme=dracula&include_all_commits=true&count_private=true" />
   <!---
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uthomaz1&layout=compact&langs_count=16&theme=dracula" /></a>
@@ -36,5 +36,6 @@ You can click the Preview link to take a look at your changes.
  <a href="https://discord.gg/DJuK4KGa94" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" target="_blank"</a> 
   <a href="mailto:contato.uthomaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"</a>
     
-  <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;"></a></p>
+  ![Snake animation](https://github.com/thomazgg/thomazgg/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
