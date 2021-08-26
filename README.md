@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Thomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thomaz-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Thomaz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Thomaz-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   
   <img align="right" alt="Thomaz-yoda" height="100" width="100" src="https://media.discordapp.net/attachments/862149693081387068/878333749786443908/Webp.net-gifmaker_1.gif">
 </div>
