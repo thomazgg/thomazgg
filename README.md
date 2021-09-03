@@ -24,7 +24,10 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Thomaz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thomaz-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   
+  <img align="right" alt="Thomaz-yoda" height="30%" width="30%" src="https://c.tenor.com/RIpC1K5hOCUAAAAd/rimuru-tempest-tensei-shitara-slime-datta-ken.gif">
+  <!---
   <img align="right" alt="Thomaz-yoda" height="100" width="100" src="https://media.discordapp.net/attachments/862149693081387068/878333749786443908/Webp.net-gifmaker_1.gif">
+  --->
 </div>
 
   ##
