@@ -34,4 +34,6 @@ You can click the Preview link to take a look at your changes.
     
   ![Snake animation](https://github.com/thomazgg/thomazgg/blob/output/github-contribution-grid-snake.svg)
     
-</div><img src="https://komarev.com/ghpvc/?username=thomazgg&color=green" alt="thomazgg" /> 
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=thomazgg&color=green" alt="thomazgg" /> 
