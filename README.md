@@ -1,9 +1,6 @@
 ## Olá. Seja bem vindo(a) ao meu perfil do Github!
 
-  - 🔭 <strong>Atualmente:</strong> Gosto de front-end 👩‍💻, edição de videos 🎬 e jogar video-game 🎮
-  - 👨‍🎓 <strong>Estudando:</strong> ciência da computação na https://fibbauru.br/
-  - 🌱 <strong>Aprendendo:</strong> Javascript
-  - 💞️ <strong>Pronomes:</strong> Ele/Dele
+  - ☕ Meu servidor do discord: https://discord.gg/DJuK4KGa94
 
 <!---
 uthomaz1/uthomaz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
