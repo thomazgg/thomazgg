@@ -1,7 +1,4 @@
 ## Olá. Seja bem vindo(a) ao meu perfil do Github!
-
-  - ☕ Meu servidor do discord: https://discord.gg/DJuK4KGa94
-
 <!---
 uthomaz1/uthomaz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
