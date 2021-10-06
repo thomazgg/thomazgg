@@ -1,5 +1,3 @@
-## Olá. Seja bem vindo(a) ao meu perfil do Github!
-
 <img src="github.png" /> 
 
 <div>
