@@ -1,4 +1,4 @@
-<img src="github2.png" /> 
+<img src="github3.png" /> 
 
 <div>
   <a href="https://github.com/thomazgg">
