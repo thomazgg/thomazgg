@@ -1,7 +1,7 @@
 <img src="github3.png" /> 
 
 <div>
-  <a href="https://github.com/thomazgg">
+  <a href="https://thomazgg.github.io/MyPortfolio/">
   <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api?username=thomazgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazgg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
