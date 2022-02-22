@@ -1,4 +1,6 @@
+<!-- 
 <img src="github3.png" /> 
+-->
 
 <div>
   <a href="https://thomazgg.github.io/MyPortfolio/" target="_blank">
