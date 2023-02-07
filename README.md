@@ -30,4 +30,3 @@
     
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=thomazgg&color=green" alt="thomazgg" /> 
